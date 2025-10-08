@@ -1,0 +1,362 @@
+[
+  {
+    "image": "/726121.png",
+    "title": "TaskFlow Manager",
+    "companyName": "NextGen Labs",
+    "id": 1,
+    "description": "Organize your projects, track deadlines, and stay productive with TaskFlow Manager.",
+    "size": 34,
+    "reviews": 18234,
+    "ratingAvg": 4.5,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 510 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 5400 },
+      { "name": "5 star", "count": 9500 }
+    ]
+  },
+  {
+    "image": "/1313630.png",
+    "title": "PhotoGen Studio",
+    "companyName": "SkySnap Co.",
+    "id": 2,
+    "description": "Edit photos with AI-powered tools, filters, and effects that bring your images to life.",
+    "size": 56,
+    "reviews": 94123,
+    "ratingAvg": 4.7,
+    "downloads": 5400000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 2400 },
+      { "name": "3 star", "count": 7200 },
+      { "name": "4 star", "count": 17800 },
+      { "name": "5 star", "count": 65523 }
+    ]
+  },
+  {
+    "image": "/1379267.png",
+    "title": "FitZone Tracker",
+    "companyName": "HealthTech Global",
+    "id": 3,
+    "description": "Monitor your fitness goals, track steps, and stay active with personalized workout insights.",
+    "size": 42,
+    "reviews": 45321,
+    "ratingAvg": 4.3,
+    "downloads": 2700000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 4200 },
+      { "name": "4 star", "count": 13200 },
+      { "name": "5 star", "count": 25621 }
+    ]
+  },
+  {
+    "image": "/7649686.png",
+    "title": "NoteEase",
+    "companyName": "SimpleSoft",
+    "id": 4,
+    "description": "Take quick notes, organize tasks, and sync seamlessly across all your devices.",
+    "size": 18,
+    "reviews": 28342,
+    "ratingAvg": 4.6,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 2600 },
+      { "name": "4 star", "count": 7800 },
+      { "name": "5 star", "count": 16612 }
+    ]
+  },
+  {
+    "image": "/14062143.png",
+    "title": "Weatherly Pro",
+    "companyName": "StormByte Technologies",
+    "id": 5,
+    "description": "Accurate forecasts, live radar maps, and real-time weather alerts for your location.",
+    "size": 29,
+    "reviews": 76543,
+    "ratingAvg": 4.8,
+    "downloads": 9300000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 3900 },
+      { "name": "4 star", "count": 19200 },
+      { "name": "5 star", "count": 52343 }
+    ]
+  },
+  {
+    "image": "/14062166.png",
+    "title": "MusicFlow",
+    "companyName": "TuneWorks Studio",
+    "id": 6,
+    "description": "Stream your favorite songs, create playlists, and enjoy music offline anytime.",
+    "size": 61,
+    "reviews": 138742,
+    "ratingAvg": 4.2,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 3200 },
+      { "name": "2 star", "count": 5100 },
+      { "name": "3 star", "count": 12600 },
+      { "name": "4 star", "count": 40300 },
+      { "name": "5 star", "count": 81842 }
+    ]
+  },
+  {
+    "image": "/14062176.png",
+    "title": "MindZen",
+    "companyName": "Peace Labs",
+    "id": 7,
+    "description": "Meditation, relaxation sounds, and breathing exercises to calm your mind.",
+    "size": 27,
+    "reviews": 68230,
+    "ratingAvg": 4.9,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 6400 },
+      { "name": "5 star", "count": 60670 }
+    ]
+  },
+  {
+    "image": "/18668785.png",
+    "title": "FinanceMate",
+    "companyName": "Budgetify Inc.",
+    "id": 8,
+    "description": "Track spending, set budgets, and manage your personal finances with ease.",
+    "size": 35,
+    "reviews": 39213,
+    "ratingAvg": 4.4,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 540 },
+      { "name": "2 star", "count": 970 },
+      { "name": "3 star", "count": 4100 },
+      { "name": "4 star", "count": 12300 },
+      { "name": "5 star", "count": 21303 }
+    ]
+  },
+  {
+    "image": "/adobe.png",
+    "title": "TripPlanner Go",
+    "companyName": "TravelNest",
+    "id": 9,
+    "description": "Plan your trips, find local attractions, and manage your travel itinerary easily.",
+    "size": 44,
+    "reviews": 50132,
+    "ratingAvg": 4.1,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 5600 },
+      { "name": "4 star", "count": 17600 },
+      { "name": "5 star", "count": 24732 }
+    ]
+  },
+  {
+    "image": "/art.png",
+    "title": "RecipeCraft",
+    "companyName": "FoodieHub",
+    "id": 10,
+    "description": "Discover new recipes daily, share your own, and cook with AI-powered guidance.",
+    "size": 38,
+    "reviews": 72214,
+    "ratingAvg": 4.6,
+    "downloads": 6100000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 5100 },
+      { "name": "4 star", "count": 16800 },
+      { "name": "5 star", "count": 48314 }
+    ]
+  },
+  {
+    "image": "/fax.png",
+    "title": "CryptoVault",
+    "companyName": "ChainWave Technologies",
+    "id": 11,
+    "description": "Monitor crypto markets, manage your wallet, and stay updated with live prices.",
+    "size": 58,
+    "reviews": 103412,
+    "ratingAvg": 4.3,
+    "downloads": 8700000,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 3100 },
+      { "name": "3 star", "count": 8200 },
+      { "name": "4 star", "count": 27300 },
+      { "name": "5 star", "count": 62612 }
+    ]
+  },
+  {
+    "image": "/illustrator.png",
+    "title": "QuickTranslate",
+    "companyName": "LinguaTech",
+    "id": 12,
+    "description": "Translate instantly between over 100 languages with speech and text support.",
+    "size": 41,
+    "reviews": 91234,
+    "ratingAvg": 4.7,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 4600 },
+      { "name": "4 star", "count": 18200 },
+      { "name": "5 star", "count": 67134 }
+    ]
+  },
+  {
+    "image": "/logo (1).png",
+    "title": "AI Chat Pro",
+    "companyName": "CleverBotics",
+    "id": 13,
+    "description": "Experience the future of conversations with your personal AI assistant.",
+    "size": 62,
+    "reviews": 214522,
+    "ratingAvg": 4.9,
+    "downloads": 22000000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1700 },
+      { "name": "3 star", "count": 6600 },
+      { "name": "4 star", "count": 31800 },
+      { "name": "5 star", "count": 173622 }
+    ]
+  },
+  {
+    "image": "/logo-design.png",
+    "title": "SketchyDraw",
+    "companyName": "Artify Studio",
+    "id": 14,
+    "description": "Create digital art effortlessly with layers, brushes, and pressure-sensitive tools.",
+    "size": 53,
+    "reviews": 48132,
+    "ratingAvg": 4.2,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 13800 },
+      { "name": "5 star", "count": 27032 }
+    ]
+  },
+  {
+    "image": "/photoshop.png",
+    "title": "CamVision",
+    "companyName": "PixelEdge",
+    "id": 15,
+    "description": "Smart camera app with filters, manual controls, and real-time AI enhancements.",
+    "size": 47,
+    "reviews": 93124,
+    "ratingAvg": 4.5,
+    "downloads": 8900000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 2100 },
+      { "name": "3 star", "count": 6800 },
+      { "name": "4 star", "count": 22800 },
+      { "name": "5 star", "count": 60224 }
+    ]
+  },
+  {
+    "image": "/shape.png",
+    "title": "LearnMate",
+    "companyName": "EduWave",
+    "id": 16,
+    "description": "Online learning platform offering video lessons and quizzes in multiple subjects.",
+    "size": 65,
+    "reviews": 134982,
+    "ratingAvg": 4.6,
+    "downloads": 17000000,
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 3100 },
+      { "name": "3 star", "count": 8400 },
+      { "name": "4 star", "count": 23800 },
+      { "name": "5 star", "count": 97782 }
+    ]
+  },
+  {
+    "image": "/shutterstock.png",
+    "title": "SafeVault",
+    "companyName": "SecureSoft",
+    "id": 17,
+    "description": "Store your passwords and files securely with cloud sync and AES-256 encryption.",
+    "size": 33,
+    "reviews": 50932,
+    "ratingAvg": 4.8,
+    "downloads": 3800000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 8800 },
+      { "name": "5 star", "count": 38932 }
+    ]
+  },
+  {
+    "image": "/two.png",
+    "title": "StreamBox",
+    "companyName": "Visionary Media",
+    "id": 18,
+    "description": "Watch live shows, trending movies, and original series all in one place.",
+    "size": 79,
+    "reviews": 248342,
+    "ratingAvg": 4.3,
+    "downloads": 40000000,
+    "ratings": [
+      { "name": "1 star", "count": 5100 },
+      { "name": "2 star", "count": 9400 },
+      { "name": "3 star", "count": 24300 },
+      { "name": "4 star", "count": 63300 },
+      { "name": "5 star", "count": 146242 }
+    ]
+  },
+  {
+    "image": "/logo-design.png",
+    "title": "DocScan Pro",
+    "companyName": "Paperless Studio",
+    "id": 19,
+    "description": "Scan, edit, and share your documents in high quality with auto edge detection.",
+    "size": 39,
+    "reviews": 78112,
+    "ratingAvg": 4.5,
+    "downloads": 7200000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 4800 },
+      { "name": "4 star", "count": 19200 },
+      { "name": "5 star", "count": 52012 }
+    ]
+  },
+  {
+    "image": "/shutterstock.png",
+    "title": "GameBooster X",
+    "companyName": "Boostify Labs",
+    "id": 20,
+    "description": "Optimize your mobile performance, clear cache, and enhance gaming FPS instantly.",
+    "size": 46,
+    "reviews": 98432,
+    "ratingAvg": 4.2,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 4100 },
+      { "name": "3 star", "count": 8500 },
+      { "name": "4 star", "count": 25800 },
+      { "name": "5 star", "count": 57932 }
+    ]
+  }
+]
