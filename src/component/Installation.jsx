@@ -56,7 +56,7 @@ const Installation = () => {
         </p>
       </div>
       <div className="flex px-9 items-center justify-between">
-        <div className="font-bold">({loads})Apps Found</div>
+        <div className="font-bold">({loads.length})Apps Found</div>
         <div className="">
           <details className="dropdown">
             <summary className="btn m-1">

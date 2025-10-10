@@ -94,7 +94,7 @@ const Appdes = () => {
         <Chart data={data.ratings} dataKey="count" color="#FF8811" />
       </div>
       <div
-        className=" h-fit p-5 mx-auto max-w-[1300px]
+        className=" h-fit p-5 mx-auto min-sm:px-20 max-w-[1300px]
       "
       >
         <div className="font-bold ">Description</div>

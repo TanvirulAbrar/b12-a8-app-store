@@ -20,7 +20,7 @@ const Apps = () => {
   };
 
   return (
-    <div className="text-center  mb-10 bg-[#f4f4f4]">
+    <div className="text-center  pb-10 bg-[#f4f4f4]">
       <h1 className="text-[33px] font-semibold">Our All Applications</h1>
       <p className="text-[#696969] mb-5">
         Explore All Trending Apps on the Market developed by us
