@@ -100,7 +100,7 @@ const Navbar = () => {
           className="btn text-white bg-linear-to-r from-[#632EE3] to-[#9F62F2]"
         >
           <Github></Github>
-          Contribute
+          <span className="max-[350px]:hidden flex">Contribute</span>
         </a>
       </div>
     </div>

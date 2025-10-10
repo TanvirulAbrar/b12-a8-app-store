@@ -68,7 +68,7 @@ const Home = () => {
         </div>
       </div>
       {/* tranding apps */}
-      <div className="text-center  my-10 ">
+      <div className="text-center  py-10 ">
         <h1 className="text-[33px] font-semibold">Trending Apps</h1>
         <p className="text-[#696969] mb-5">
           Explore All Trending Apps on the Market developed by us
