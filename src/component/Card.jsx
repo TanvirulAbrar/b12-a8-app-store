@@ -1,10 +1,14 @@
 import { Download, Star } from "lucide-react";
 import React from "react";
+import { NavLink } from "react-router";
 
 const Card = ({ data }) => {
-  const { title, image, downloads, ratingAvg } = data;
+  const { title, image, downloads, ratingAvg, id } = data;
   return (
-    <div className="rounded-xl p-3 w-[243px] h-[302px] border-1 border-[#00D390] bg-white">
+    <NavLink
+      to={`/apps/${id}`}
+      className="rounded-xl p-3 w-[243px] h-[302px] border border-[#00D390] bg-white transition-all duration-300 hover:-translate-y-2 hover:shadow-lg"
+    >
       <div className="rounded-xl w-fit h-fit bg-[#f4f4f4] overflow-hidden mx-auto mb-3">
         {" "}
         <img src={image} alt="" className="h-[200px] w-[200px]" />
@@ -23,7 +27,7 @@ const Card = ({ data }) => {
           <span>{ratingAvg}</span>
         </div>
       </div>
-    </div>
+    </NavLink>
   );
 };
 

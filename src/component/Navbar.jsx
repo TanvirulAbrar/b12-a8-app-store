@@ -95,7 +95,10 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="navbar-end ">
-        <a className="btn text-white bg-linear-to-r from-[#632EE3] to-[#9F62F2]">
+        <a
+          href="https://github.com/TanvirulAbrar/"
+          className="btn text-white bg-linear-to-r from-[#632EE3] to-[#9F62F2]"
+        >
           <Github></Github>
           Contribute
         </a>

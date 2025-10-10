@@ -4,17 +4,17 @@
     "title": "TaskFlow Manager",
     "companyName": "NextGen Labs",
     "id": 1,
-    "description": "Organize your projects, track deadlines, and stay productive with TaskFlow Manager.",
+    "description": "TaskFlow Manager is your ultimate companion for organizing projects and ensuring you never miss a deadline. With intuitive features designed for both individuals and teams, you can create detailed task lists, assign responsibilities, and set reminders that sync across all your devices. Whether you're managing a small personal project or coordinating a large team effort, TaskFlow Manager provides customizable boards, progress tracking, and real-time collaboration tools to keep everything on track.\n\nStay productive with advanced analytics that offer insights into your workflow, helping you identify bottlenecks and optimize your processes. The app integrates seamlessly with calendars, email, and other productivity tools, making it a central hub for all your organizational needs. Experience enhanced efficiency with automated notifications, priority tagging, and goal-setting features that motivate you to achieve more every day.",
     "size": 34,
     "reviews": 18234,
     "ratingAvg": 4.5,
     "downloads": "1.2M",
     "ratings": [
-      { "name": "1 star", "count": 320 },
-      { "name": "2 star", "count": 510 },
-      { "name": "3 star", "count": 2400 },
+      { "name": "5 star", "count": 9500 },
       { "name": "4 star", "count": 5400 },
-      { "name": "5 star", "count": 9500 }
+      { "name": "3 star", "count": 2400 },
+      { "name": "2 star", "count": 510 },
+      { "name": "1 star", "count": 320 }
     ]
   },
   {
@@ -22,17 +22,17 @@
     "title": "PhotoGen Studio",
     "companyName": "SkySnap Co.",
     "id": 2,
-    "description": "Edit photos with AI-powered tools, filters, and effects that bring your images to life.",
+    "description": "PhotoGen Studio revolutionizes photo editing with its AI-powered tools that make professional-level enhancements accessible to everyone. From automatic background removal to intelligent color correction, the app offers a wide array of filters, effects, and brushes that can transform ordinary images into stunning visuals. Whether you're a hobbyist capturing everyday moments or a professional photographer, PhotoGen Studio provides layer support, non-destructive editing, and high-resolution exports to bring your creative vision to life.\n\nDive deeper into creativity with features like object recognition for smart edits, batch processing for efficiency, and community-shared presets that inspire new ideas. The user-friendly interface ensures seamless navigation, while integration with cloud storage allows you to access and edit your photos from anywhere. Elevate your photography game with real-time previews, undo history, and tutorials that guide you through advanced techniques.",
     "size": 56,
     "reviews": 94123,
     "ratingAvg": 4.7,
     "downloads": "5.4M",
     "ratings": [
-      { "name": "1 star", "count": 1200 },
-      { "name": "2 star", "count": 2400 },
-      { "name": "3 star", "count": 7200 },
+      { "name": "5 star", "count": 65523 },
       { "name": "4 star", "count": 17800 },
-      { "name": "5 star", "count": 65523 }
+      { "name": "3 star", "count": 7200 },
+      { "name": "2 star", "count": 2400 },
+      { "name": "1 star", "count": 1200 }
     ]
   },
   {
@@ -40,17 +40,17 @@
     "title": "FitZone Tracker",
     "companyName": "HealthTech Global",
     "id": 3,
-    "description": "Monitor your fitness goals, track steps, and stay active with personalized workout insights.",
+    "description": "FitZone Tracker empowers you to take control of your fitness journey by monitoring daily activities and providing personalized insights. Track steps, calories burned, heart rate, and sleep patterns with precision sensors that integrate with your wearable devices. Set achievable goals, follow guided workouts, and receive motivational notifications to keep you moving towards a healthier lifestyle, whether you're a beginner or an athlete.\n\nAnalyze your progress with detailed reports, trend graphs, and community challenges that foster accountability and fun. The app supports various sports modes, nutrition logging, and integration with health apps for a holistic view of your well-being. Stay engaged with customizable dashboards, achievement badges, and expert tips that adapt to your fitness level and preferences.",
     "size": 42,
     "reviews": 45321,
     "ratingAvg": 4.3,
     "downloads": "2.7M",
     "ratings": [
-      { "name": "1 star", "count": 800 },
-      { "name": "2 star", "count": 1400 },
-      { "name": "3 star", "count": 4200 },
+      { "name": "5 star", "count": 25621 },
       { "name": "4 star", "count": 13200 },
-      { "name": "5 star", "count": 25621 }
+      { "name": "3 star", "count": 4200 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "1 star", "count": 800 }
     ]
   },
   {
@@ -58,17 +58,17 @@
     "title": "NoteEase",
     "companyName": "SimpleSoft",
     "id": 4,
-    "description": "Take quick notes, organize tasks, and sync seamlessly across all your devices.",
+    "description": "NoteEase simplifies note-taking with its clean interface and powerful organization features, allowing you to capture ideas quickly and access them anytime. Create notebooks, add tags, and use rich text formatting to structure your thoughts, whether for work meetings, study notes, or personal reminders. Sync across devices ensures your notes are always up-to-date, with offline access for uninterrupted productivity.\n\nEnhance your workflow with searchable content, voice-to-text transcription, and attachment support for images and files. Collaborate in real-time with shared notes, set reminders for important entries, and export in various formats for easy sharing. NoteEase is designed for efficiency, helping you stay organized and focused in a fast-paced world.",
     "size": 18,
     "reviews": 28342,
     "ratingAvg": 4.6,
     "downloads": "1.8M",
     "ratings": [
-      { "name": "1 star", "count": 310 },
-      { "name": "2 star", "count": 620 },
-      { "name": "3 star", "count": 2600 },
+      { "name": "5 star", "count": 16612 },
       { "name": "4 star", "count": 7800 },
-      { "name": "5 star", "count": 16612 }
+      { "name": "3 star", "count": 2600 },
+      { "name": "2 star", "count": 620 },
+      { "name": "1 star", "count": 310 }
     ]
   },
   {
@@ -76,17 +76,17 @@
     "title": "Weatherly Pro",
     "companyName": "StormByte Technologies",
     "id": 5,
-    "description": "Accurate forecasts, live radar maps, and real-time weather alerts for your location.",
+    "description": "Weatherly Pro delivers precise weather information with hyper-local forecasts and interactive radar maps to help you plan your day confidently. Get real-time updates on temperature, precipitation, wind, and severe weather alerts tailored to your location. Customize widgets for quick glances and receive notifications for changing conditions, making it essential for travelers, outdoor enthusiasts, and daily commuters.\n\nExplore in-depth data with hourly breakdowns, 10-day outlooks, and historical trends to understand weather patterns better. The app integrates with smart home devices, offers air quality indices, and supports multiple locations for tracking weather worldwide. Stay prepared with accurate, user-friendly insights that go beyond basic forecasts.",
     "size": 29,
     "reviews": 76543,
     "ratingAvg": 4.8,
     "downloads": "9.3M",
     "ratings": [
-      { "name": "1 star", "count": 400 },
-      { "name": "2 star", "count": 700 },
-      { "name": "3 star", "count": 3900 },
+      { "name": "5 star", "count": 52343 },
       { "name": "4 star", "count": 19200 },
-      { "name": "5 star", "count": 52343 }
+      { "name": "3 star", "count": 3900 },
+      { "name": "2 star", "count": 700 },
+      { "name": "1 star", "count": 400 }
     ]
   },
   {
@@ -94,17 +94,17 @@
     "title": "MusicFlow",
     "companyName": "TuneWorks Studio",
     "id": 6,
-    "description": "Stream your favorite songs, create playlists, and enjoy music offline anytime.",
+    "description": "MusicFlow offers an immersive streaming experience with millions of songs at your fingertips, allowing you to discover new artists and genres effortlessly. Create personalized playlists, follow your favorite musicians, and enjoy high-quality audio with offline downloads for uninterrupted listening. Whether commuting, working out, or relaxing, MusicFlow curates recommendations based on your tastes and listening history.\n\nEngage with the community through shared playlists, lyrics display, and concert alerts. The app supports cross-device syncing, equalizer settings for custom sound, and integration with smart speakers. Dive into a world of music with seamless navigation and features that enhance every listening session.",
     "size": 61,
     "reviews": 138742,
     "ratingAvg": 4.2,
     "downloads": "15M",
     "ratings": [
-      { "name": "1 star", "count": 3200 },
-      { "name": "2 star", "count": 5100 },
-      { "name": "3 star", "count": 12600 },
+      { "name": "5 star", "count": 81842 },
       { "name": "4 star", "count": 40300 },
-      { "name": "5 star", "count": 81842 }
+      { "name": "3 star", "count": 12600 },
+      { "name": "2 star", "count": 5100 },
+      { "name": "1 star", "count": 3200 }
     ]
   },
   {
@@ -112,17 +112,17 @@
     "title": "MindZen",
     "companyName": "Peace Labs",
     "id": 7,
-    "description": "Meditation, relaxation sounds, and breathing exercises to calm your mind.",
+    "description": "MindZen guides you through meditation practices with soothing sounds and expert-led sessions to reduce stress and improve focus. Choose from a variety of themes like mindfulness, sleep, or anxiety relief, and track your progress with daily streaks and mood logs. Suitable for beginners and experienced practitioners, the app offers customizable session lengths and ambient backgrounds for a personalized experience.\n\nIncorporate breathing exercises, guided imagery, and progress analytics to build a consistent routine. Community features allow sharing experiences, while offline access ensures you can practice anywhere. Achieve inner peace with MindZen's holistic approach to mental wellness.",
     "size": 27,
     "reviews": 68230,
     "ratingAvg": 4.9,
     "downloads": "2.1M",
     "ratings": [
-      { "name": "1 star", "count": 120 },
-      { "name": "2 star", "count": 240 },
-      { "name": "3 star", "count": 800 },
+      { "name": "5 star", "count": 60670 },
       { "name": "4 star", "count": 6400 },
-      { "name": "5 star", "count": 60670 }
+      { "name": "3 star", "count": 800 },
+      { "name": "2 star", "count": 240 },
+      { "name": "1 star", "count": 120 }
     ]
   },
   {
@@ -130,17 +130,17 @@
     "title": "FinanceMate",
     "companyName": "Budgetify Inc.",
     "id": 8,
-    "description": "Track spending, set budgets, and manage your personal finances with ease.",
+    "description": "FinanceMate simplifies personal finance management by tracking expenses, categorizing transactions, and providing insightful reports to help you stay within budget. Set financial goals, monitor investments, and receive alerts for upcoming bills or unusual spending. With bank-level security and easy import options, it's ideal for individuals and families looking to gain control over their money.\n\nVisualize your finances with charts, forecasts, and tax preparation tools that make planning effortless. Integrate with banking apps for automatic updates and collaborate with partners on shared budgets. FinanceMate empowers you with knowledge and tools for smarter financial decisions.",
     "size": 35,
     "reviews": 39213,
     "ratingAvg": 4.4,
     "downloads": "1.4M",
     "ratings": [
-      { "name": "1 star", "count": 540 },
-      { "name": "2 star", "count": 970 },
-      { "name": "3 star", "count": 4100 },
+      { "name": "5 star", "count": 21303 },
       { "name": "4 star", "count": 12300 },
-      { "name": "5 star", "count": 21303 }
+      { "name": "3 star", "count": 4100 },
+      { "name": "2 star", "count": 970 },
+      { "name": "1 star", "count": 540 }
     ]
   },
   {
@@ -148,17 +148,17 @@
     "title": "TripPlanner Go",
     "companyName": "TravelNest",
     "id": 9,
-    "description": "Plan your trips, find local attractions, and manage your travel itinerary easily.",
+    "description": "TripPlanner Go makes travel organization seamless by helping you build itineraries, book accommodations, and discover hidden gems in your destinations. Input your preferences for activities, dining, and transportation to receive tailored suggestions and maps. Share plans with travel companions and get real-time updates on flight delays or weather changes for stress-free trips.\n\nTrack expenses, store travel documents, and access offline maps to navigate confidently. The app integrates with calendars and offers community reviews for authentic experiences. Whether for business or leisure, TripPlanner Go turns planning into an exciting part of your adventure.",
     "size": 44,
     "reviews": 50132,
     "ratingAvg": 4.1,
     "downloads": "3.2M",
     "ratings": [
-      { "name": "1 star", "count": 900 },
-      { "name": "2 star", "count": 1300 },
-      { "name": "3 star", "count": 5600 },
+      { "name": "5 star", "count": 24732 },
       { "name": "4 star", "count": 17600 },
-      { "name": "5 star", "count": 24732 }
+      { "name": "3 star", "count": 5600 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "1 star", "count": 900 }
     ]
   },
   {
@@ -166,17 +166,17 @@
     "title": "RecipeCraft",
     "companyName": "FoodieHub",
     "id": 10,
-    "description": "Discover new recipes daily, share your own, and cook with AI-powered guidance.",
+    "description": "RecipeCraft inspires culinary creativity with a vast library of recipes, step-by-step guides, and AI suggestions based on your ingredients or dietary needs. Browse categories, save favorites, and create shopping lists automatically. Share your creations with the community and rate recipes to help others discover great meals.\n\nCustomize recipes with substitutions, scale portions, and watch video tutorials for techniques. Integrate with smart kitchen devices for timed cooking and nutritional breakdowns. RecipeCraft makes cooking accessible, fun, and tailored to your lifestyle.",
     "size": 38,
     "reviews": 72214,
     "ratingAvg": 4.6,
     "downloads": "6.1M",
     "ratings": [
-      { "name": "1 star", "count": 800 },
-      { "name": "2 star", "count": 1200 },
-      { "name": "3 star", "count": 5100 },
+      { "name": "5 star", "count": 48314 },
       { "name": "4 star", "count": 16800 },
-      { "name": "5 star", "count": 48314 }
+      { "name": "3 star", "count": 5100 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "1 star", "count": 800 }
     ]
   },
   {
@@ -184,17 +184,17 @@
     "title": "CryptoVault",
     "companyName": "ChainWave Technologies",
     "id": 11,
-    "description": "Monitor crypto markets, manage your wallet, and stay updated with live prices.",
+    "description": "CryptoVault provides a secure platform for managing your cryptocurrency portfolio with real-time price tracking and market analysis. Store assets in a protected wallet, execute trades, and set alerts for price fluctuations. Educational resources help newcomers understand blockchain while advanced charts assist seasoned investors.\n\nMonitor trends with news feeds, portfolio diversification tools, and tax reporting features. The app supports multiple currencies, two-factor authentication, and offline storage options for maximum security. Stay ahead in the crypto world with CryptoVault's comprehensive tools.",
     "size": 58,
     "reviews": 103412,
     "ratingAvg": 4.3,
     "downloads": "8.7M",
     "ratings": [
-      { "name": "1 star", "count": 2100 },
-      { "name": "2 star", "count": 3100 },
-      { "name": "3 star", "count": 8200 },
+      { "name": "5 star", "count": 62612 },
       { "name": "4 star", "count": 27300 },
-      { "name": "5 star", "count": 62612 }
+      { "name": "3 star", "count": 8200 },
+      { "name": "2 star", "count": 3100 },
+      { "name": "1 star", "count": 2100 }
     ]
   },
   {
@@ -202,17 +202,17 @@
     "title": "QuickTranslate",
     "companyName": "LinguaTech",
     "id": 12,
-    "description": "Translate instantly between over 100 languages with speech and text support.",
+    "description": "QuickTranslate breaks language barriers with instant translations in over 100 languages, supporting text, speech, and image inputs. Conversation mode facilitates real-time dialogues, while phrasebooks offer quick access to common expressions. Perfect for travelers, students, and professionals needing accurate communication.\n\nEnhance accuracy with context-aware translations, offline dictionaries, and pronunciation guides. Integrate with messaging apps for seamless use and track your learning progress. QuickTranslate makes global interaction effortless and reliable.",
     "size": 41,
     "reviews": 91234,
     "ratingAvg": 4.7,
     "downloads": "10M",
     "ratings": [
-      { "name": "1 star", "count": 900 },
-      { "name": "2 star", "count": 1400 },
-      { "name": "3 star", "count": 4600 },
+      { "name": "5 star", "count": 67134 },
       { "name": "4 star", "count": 18200 },
-      { "name": "5 star", "count": 67134 }
+      { "name": "3 star", "count": 4600 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "1 star", "count": 900 }
     ]
   },
   {
@@ -220,17 +220,17 @@
     "title": "AI Chat Pro",
     "companyName": "CleverBotics",
     "id": 13,
-    "description": "Experience the future of conversations with your personal AI assistant.",
+    "description": "AI Chat Pro brings intelligent conversations to your fingertips with a versatile AI assistant that handles queries, tasks, and entertainment. Engage in natural dialogues, get personalized recommendations, and automate routines like reminders or weather checks. Adaptable to your style, it's like having a smart companion always ready to help.\n\nExplore advanced features like voice interaction, multi-language support, and integration with other apps for enhanced functionality. Privacy-focused with data encryption, AI Chat Pro learns from interactions to provide better responses over time. Discover the future of AI companionship today.",
     "size": 62,
     "reviews": 214522,
     "ratingAvg": 4.9,
     "downloads": "22M",
     "ratings": [
-      { "name": "1 star", "count": 800 },
-      { "name": "2 star", "count": 1700 },
-      { "name": "3 star", "count": 6600 },
+      { "name": "5 star", "count": 173622 },
       { "name": "4 star", "count": 31800 },
-      { "name": "5 star", "count": 173622 }
+      { "name": "3 star", "count": 6600 },
+      { "name": "2 star", "count": 1700 },
+      { "name": "1 star", "count": 800 }
     ]
   },
   {
@@ -238,17 +238,17 @@
     "title": "SketchyDraw",
     "companyName": "Artify Studio",
     "id": 14,
-    "description": "Create digital art effortlessly with layers, brushes, and pressure-sensitive tools.",
+    "description": "SketchyDraw unleashes your artistic potential with professional drawing tools including pressure-sensitive brushes, layers, and blending modes. Create illustrations, comics, or concept art with unlimited undo and high-precision controls. Suitable for tablets and phones, it supports stylus input for a natural drawing experience.\n\nExport in various formats, collaborate on projects, and access a library of assets like textures and shapes. Tutorials and community galleries inspire creativity, while cloud saving ensures your work is safe. SketchyDraw is the go-to app for digital artists of all levels.",
     "size": 53,
     "reviews": 48132,
     "ratingAvg": 4.2,
     "downloads": "4.2M",
     "ratings": [
-      { "name": "1 star", "count": 700 },
-      { "name": "2 star", "count": 1400 },
-      { "name": "3 star", "count": 5200 },
+      { "name": "5 star", "count": 27032 },
       { "name": "4 star", "count": 13800 },
-      { "name": "5 star", "count": 27032 }
+      { "name": "3 star", "count": 5200 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "1 star", "count": 700 }
     ]
   },
   {
@@ -256,17 +256,17 @@
     "title": "CamVision",
     "companyName": "PixelEdge",
     "id": 15,
-    "description": "Smart camera app with filters, manual controls, and real-time AI enhancements.",
+    "description": "CamVision elevates mobile photography with advanced camera controls, real-time filters, and AI enhancements for perfect shots every time. Adjust exposure, focus, and white balance manually, or let smart modes handle it. Capture in RAW for post-processing flexibility and enjoy features like night mode and portrait effects.\n\nEdit on the go with built-in tools, share directly to social media, and organize your gallery with tags. Integration with cloud services and burst shooting capabilities make it versatile for casual and professional use. CamVision turns your device into a powerful camera.",
     "size": 47,
     "reviews": 93124,
     "ratingAvg": 4.5,
     "downloads": "8.9M",
     "ratings": [
-      { "name": "1 star", "count": 1200 },
-      { "name": "2 star", "count": 2100 },
-      { "name": "3 star", "count": 6800 },
+      { "name": "5 star", "count": 60224 },
       { "name": "4 star", "count": 22800 },
-      { "name": "5 star", "count": 60224 }
+      { "name": "3 star", "count": 6800 },
+      { "name": "2 star", "count": 2100 },
+      { "name": "1 star", "count": 1200 }
     ]
   },
   {
@@ -274,17 +274,17 @@
     "title": "LearnMate",
     "companyName": "EduWave",
     "id": 16,
-    "description": "Online learning platform offering video lessons and quizzes in multiple subjects.",
+    "description": "LearnMate transforms education with interactive video lessons, quizzes, and progress tracking across subjects like math, science, and languages. Personalized learning paths adapt to your pace, with expert instructors providing clear explanations. Access courses offline and earn certificates to showcase your achievements.\n\nEngage with forums for discussions, flashcards for memorization, and analytics to identify strengths and weaknesses. Integrate with school systems and receive reminders for study sessions. LearnMate makes learning engaging, effective, and accessible for all ages.",
     "size": 65,
     "reviews": 134982,
     "ratingAvg": 4.6,
     "downloads": "17M",
     "ratings": [
-      { "name": "1 star", "count": 1800 },
-      { "name": "2 star", "count": 3100 },
-      { "name": "3 star", "count": 8400 },
+      { "name": "5 star", "count": 97782 },
       { "name": "4 star", "count": 23800 },
-      { "name": "5 star", "count": 97782 }
+      { "name": "3 star", "count": 8400 },
+      { "name": "2 star", "count": 3100 },
+      { "name": "1 star", "count": 1800 }
     ]
   },
   {
@@ -292,17 +292,17 @@
     "title": "SafeVault",
     "companyName": "SecureSoft",
     "id": 17,
-    "description": "Store your passwords and files securely with cloud sync and AES-256 encryption.",
+    "description": "SafeVault safeguards your sensitive information with robust encryption and easy-to-use password management. Store logins, notes, and files in categorized vaults, with auto-fill for quick access on websites and apps. Biometric authentication and secure sharing options ensure only you control your data.\n\nSync across devices with cloud backup, generate strong passwords, and monitor for breaches. The app includes a digital wallet for cards and supports two-factor codes. SafeVault provides peace of mind in a digital world full of threats.",
     "size": 33,
     "reviews": 50932,
     "ratingAvg": 4.8,
     "downloads": "3.8M",
     "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 600 },
-      { "name": "3 star", "count": 2400 },
+      { "name": "5 star", "count": 38932 },
       { "name": "4 star", "count": 8800 },
-      { "name": "5 star", "count": 38932 }
+      { "name": "3 star", "count": 2400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "1 star", "count": 200 }
     ]
   },
   {
@@ -310,17 +310,17 @@
     "title": "StreamBox",
     "companyName": "Visionary Media",
     "id": 18,
-    "description": "Watch live shows, trending movies, and original series all in one place.",
+    "description": "StreamBox aggregates your favorite content with live TV, on-demand movies, and exclusive series in stunning quality. Personalized recommendations based on viewing history help you discover new shows, while profiles allow family members to have tailored experiences. Download for offline viewing and enjoy ad-free options.\n\nIntegrate with smart TVs, cast to devices, and track watchlists across platforms. Subtitles, parental controls, and genre browsing make it user-friendly. StreamBox is your all-in-one entertainment hub for endless enjoyment.",
     "size": 79,
     "reviews": 248342,
     "ratingAvg": 4.3,
     "downloads": "40M",
     "ratings": [
-      { "name": "1 star", "count": 5100 },
-      { "name": "2 star", "count": 9400 },
-      { "name": "3 star", "count": 24300 },
+      { "name": "5 star", "count": 146242 },
       { "name": "4 star", "count": 63300 },
-      { "name": "5 star", "count": 146242 }
+      { "name": "3 star", "count": 24300 },
+      { "name": "2 star", "count": 9400 },
+      { "name": "1 star", "count": 5100 }
     ]
   },
   {
@@ -328,17 +328,17 @@
     "title": "DocScan Pro",
     "companyName": "Paperless Studio",
     "id": 19,
-    "description": "Scan, edit, and share your documents in high quality with auto edge detection.",
+    "description": "DocScan Pro turns your device into a portable scanner with high-quality captures, auto edge detection, and perspective correction. Scan multi-page documents, receipts, or whiteboards, then edit with text recognition (OCR) for searchable PDFs. Organize scans into folders and export to cloud services effortlessly.\n\nEnhance images with filters, add annotations, and secure files with passwords. Batch scanning and automatic backups save time, while integration with email and printers streamlines workflows. Go paperless with DocScan Pro's efficient tools.",
     "size": 39,
     "reviews": 78112,
     "ratingAvg": 4.5,
     "downloads": "7.2M",
     "ratings": [
-      { "name": "1 star", "count": 700 },
-      { "name": "2 star", "count": 1300 },
-      { "name": "3 star", "count": 4800 },
+      { "name": "5 star", "count": 52012 },
       { "name": "4 star", "count": 19200 },
-      { "name": "5 star", "count": 52012 }
+      { "name": "3 star", "count": 4800 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "1 star", "count": 700 }
     ]
   },
   {
@@ -346,17 +346,17 @@
     "title": "GameBooster X",
     "companyName": "Boostify Labs",
     "id": 20,
-    "description": "Optimize your mobile performance, clear cache, and enhance gaming FPS instantly.",
+    "description": "GameBooster X optimizes your device's performance for smoother gaming by clearing RAM, managing CPU, and reducing lag. Activate game mode to prioritize resources, monitor temperatures, and extend battery life during intense sessions. Compatible with popular games, it enhances FPS and graphics quality.\n\nAnalyze usage with reports, customize boosts for specific apps, and integrate with controllers. The app includes a game launcher for quick access and community tips for better play. Elevate your mobile gaming with GameBooster X's powerful features.",
     "size": 46,
     "reviews": 98432,
     "ratingAvg": 4.2,
     "downloads": "15M",
     "ratings": [
-      { "name": "1 star", "count": 2100 },
-      { "name": "2 star", "count": 4100 },
-      { "name": "3 star", "count": 8500 },
+      { "name": "5 star", "count": 57932 },
       { "name": "4 star", "count": 25800 },
-      { "name": "5 star", "count": 57932 }
+      { "name": "3 star", "count": 8500 },
+      { "name": "2 star", "count": 4100 },
+      { "name": "1 star", "count": 2100 }
     ]
   }
 ]

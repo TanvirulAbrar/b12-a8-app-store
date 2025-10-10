@@ -22,14 +22,20 @@ const Home = () => {
           into digital experiences that truly make an impact.
         </p>
         <div className=" h-[50] mx-auto mb-8">
-          <button className="btn rounded-xl border-1 border-[#a3a3a3] ">
+          <a
+            href="https://play.google.com/store/games?hl=en"
+            className="btn rounded-xl border-1 border-[#a3a3a3] "
+          >
             <img src={playsore} alt="" />
             Google Play
-          </button>
-          <button className="btn ml-8 rounded-xl border-1 border-[#a3a3a3] ">
+          </a>
+          <a
+            href="https://www.apple.com/app-store/"
+            className="btn ml-8 rounded-xl border-1 border-[#a3a3a3] "
+          >
             <img src={appstore} alt="" />
             App Store
-          </button>
+          </a>
         </div>
         <img className="mx-auto" src={hero} alt="" />
       </div>
@@ -70,7 +76,7 @@ const Home = () => {
         <div className="grid gap-5 items-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 w-fit mx-auto">
           {/* card */}
           {data
-            .filter((app) => app.id >= 10)
+            .filter((app) => app.id <= 8)
             .map((data, index) => (
               <Card key={index} data={data}></Card>
             ))}

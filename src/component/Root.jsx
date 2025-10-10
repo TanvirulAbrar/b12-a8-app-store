@@ -1,19 +1,24 @@
 import React from "react";
-import { ToastContainer, toast } from "react-toastify";
+import { ToastContainer } from "react-toastify";
 import Navbar from "./Navbar";
-import { Outlet } from "react-router";
+import { Outlet, useNavigation } from "react-router";
 import Footer from "./Footer";
 
 const Root = () => {
-  const notify = () => toast("Wow so easy!");
+  const navigation = useNavigation();
+  const isPending = Boolean(navigation.location);
+
   return (
     <div>
       <Navbar></Navbar>
-      <Outlet></Outlet>
-      <div>
-        <button onClick={notify}>Notify!</button>
-        <ToastContainer />
+      <div className="  relative w-fit m-auto ">
+        {" "}
+        {isPending && (
+          <span className="loading loading-spinner text-primary"></span>
+        )}
       </div>
+      <Outlet></Outlet>
+      <ToastContainer />
       <Footer></Footer>
     </div>
   );
