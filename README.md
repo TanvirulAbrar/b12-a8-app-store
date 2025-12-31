@@ -5,6 +5,8 @@ Explore detailed descriptions, company info, and stats, all beautifully presente
 
 ---
 
+live link :   https://my-a8-apps-store.netlify.app/
+
 ## 🛠️ Technologies Used
 
 - **Frontend:** React.js + Tailwind CSS
