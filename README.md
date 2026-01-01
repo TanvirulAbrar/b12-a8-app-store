@@ -76,7 +76,6 @@ The platform includes **20 featured apps**, covering productivity, fitness, fina
    ```bash
    npm install
 
-
 3. Start the development server:
    ```bash
    npm run dev
