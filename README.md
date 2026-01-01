@@ -83,4 +83,4 @@ The platform includes **20 featured apps**, covering productivity, fitness, fina
 
 ## 📸 Screenshot
 
-    Not added yet.
+  Not added yet.
